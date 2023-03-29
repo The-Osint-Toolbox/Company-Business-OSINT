@@ -3,4 +3,5 @@
 <p>Some websites offer paid for services but you will find free content too, many pull information directly from Campanies House.</p>
 <p>List of Company-OSINT tools.</p>
 <ul>
+ <li>https://192.com/businesses/</li>
  <li>https://find-and-update.company-information.service.gov.uk/search?q=</li>
