@@ -5,7 +5,9 @@
 <ul>
  <li>https://192.com/businesses/</li>
  <li>https://ceoemail.com/</li>
+ <li>https://data.gov.uk/</li>
  <li>https://register.fca.org.uk/s</li>
  <li>https://find-and-update.company-information.service.gov.uk/search?q=</li>
+ <li>https://register.openownership.org/search?q=</li>
  <li>https://ukphonebook.com/company-information</li>
 </ul>
