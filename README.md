@@ -6,6 +6,7 @@
  <li>https://192.com/businesses/</li>
  <li>https://en.baumgartner-research.com/unternehmensregister</li>
  <li>https://ceoemail.com/</li>
+ <li>https://www.companiesintheuk.co.uk/</li>
  <li>https://data.gov.uk/</li>
  <li>http://littlesis.org/</li>
  <li>https://register.fca.org.uk/s</li>
