@@ -4,8 +4,10 @@
 <p>List of Company-OSINT tools.</p>
 <ul>
  <li>https://192.com/businesses/</li>
+ <li>https://en.baumgartner-research.com/unternehmensregister</li>
  <li>https://ceoemail.com/</li>
  <li>https://data.gov.uk/</li>
+ <li>http://littlesis.org/</li>
  <li>https://register.fca.org.uk/s</li>
  <li>https://find-and-update.company-information.service.gov.uk/search?q=</li>
  <li>https://register.openownership.org/search?q=</li>
