@@ -10,6 +10,7 @@
  <p><li><a href="https://find-and-update.company-information.service.gov.uk/search?q=">Comapnies House Direct Search</a></li></p>
  <li><a href="https://192.com/businesses/">192.com</a></li>
  <li><a href="https://en.baumgartner-research.com/unternehmensregister">Baumgartner-Research</a></li>
+ <Li><a href="https://www.disputesregister.org/advice/company-registries-by-country">Business Dispute Register</a></Li>
  <li><a href="https://ceoemail.com/">CEOmail</a></li>
  <li><a href="https://companycheck.co.uk/">Company Check</a></li>
  <li><a href="https://companydirectorcheck.com/search?find=">Company Director Check</a></li>
