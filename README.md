@@ -5,7 +5,7 @@
 </p>
 <p>On this page you will find links to, tools, for researching companies. The list is primarily focused towards the UK.</p> 
 <p>Some websites offer paid for services but you will find free content too, many pull information directly from Campanies House.</p>
-<p>List of Company-OSINT tools.</p>
+<p>List of Company-Business-OSINT tools.</p>
 <ul>
  <p><li><a href="https://find-and-update.company-information.service.gov.uk/search?q=">Comapnies House Direct Search</a></li></p>
  <li><a href="https://192.com/businesses/">192.com</a></li>
