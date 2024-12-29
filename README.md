@@ -47,5 +47,5 @@
      <li>link.me/USERNAME or site: & KEYWORD</li>
      <li>linko.page/USERNAME or site: & KEYWORD</li>
      <li>tap.bio/USERNAME or site: & KEYWORD</li>
-     <li>vcard.linkUSERNAME or site: & KEYWORD</li>
+     <li>vcard.link/USERNAME or site: & KEYWORD</li>
  </ul>
