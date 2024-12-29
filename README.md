@@ -43,6 +43,7 @@
      </tr>
   </table>
  <ul> 
+     <li>bio.link/USERNAME or site: & KEYWORD</li>
      <li>form.jotform.com/USERNAME or site: & KEYWORD</li>
      <li>link.me/USERNAME or site: & KEYWORD</li>
      <li>linko.page/USERNAME or site: & KEYWORD</li>
