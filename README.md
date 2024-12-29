@@ -37,3 +37,14 @@
  <li><a href="http://www.vat-lookup.co.uk/">VAT Lookup</a></li>
  <li><a href="https://www.yell.com/">Yell</a></li>
 </ul>
+<table>
+      <tr>
+       <td>vCards</td>
+     </tr>
+  </table>
+ <ul>
+     <li>link.bio/USERNAME or site: & KEYWORD</li>
+     <li>link.me/USERNAME or site: & KEYWORD</li>
+     <li>linko.page/USERNAME or site: & KEYWORD</li>
+     <li>vcard.linkUSERNAME or site: & KEYWORD</li>
+ </ul>
