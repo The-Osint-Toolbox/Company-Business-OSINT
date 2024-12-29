@@ -44,7 +44,7 @@
   </table>
  <ul> 
      <li>form.jotform.com/USERNAME or site: & KEYWORD</li>
-     <li>link.bio/USERNAME or site: & KEYWORD</li>
+     <li>lnk.bio/USERNAME or site: & KEYWORD</li>
      <li>link.me/USERNAME or site: & KEYWORD</li>
      <li>linko.page/USERNAME or site: & KEYWORD</li>
      <li>smart.bio/USERNAME or site: & KEYWORD</li>
