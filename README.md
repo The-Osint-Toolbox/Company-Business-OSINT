@@ -55,3 +55,13 @@
      <li>vcard.link/USERNAME or site: & KEYWORD</li>
      <li>woorise.com/USERNAME or site: & KEYWORD</li>
  </ul>
+ <table>
+  <tr>
+   <td>Google Digital Business Card CSE by Dutch OSINT Guy</td>
+ </tr>
+</table>
+ <ul>
+  <li><a href="https://cse.google.com/cse?cx=bee58a1c31f451e4a#gsc.tab=0">CSE 1</a></li>
+  <li><a href="https://cse.google.com/cse?cx=c8b40db66ea102c6d#gsc.tab=0">CSE 2</a></li>
+  <li><a href="https://cse.google.com/cse?cx=993b7d5363704714b#gsc.tab=0">CSE 3</a></li>
+</ul>
