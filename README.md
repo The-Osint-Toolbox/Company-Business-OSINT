@@ -26,6 +26,7 @@
  <li><a href="https://uk.globaldatabase.com/company?name=">Global Database</a></li>
  <li><a href="https://portal.guernseyregistry.com/">Guernsey Registry</a></li>
  <li><a href="http://littlesis.org/">Littlesis</a></li>
+ <li><a href="https://www.northdata.com/">North Data</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://opencorporates.com/">Open Corporates</a></li>
  <li><a href="https://register.openownership.org/search?q=">Open Ownership</a></li>
