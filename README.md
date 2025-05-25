@@ -27,6 +27,7 @@
  <li><a href="https://uk.globaldatabase.com/company?name=">Global Company Database</a></li>
  <li><a href="https://panjiva.com/search">Global Trade Data Search</a></li>
  <li><a href="https://portal.guernseyregistry.com/">Guernsey Registry</a></li>
+ <li><a href="https://lei.info/">Legal Entity Identifier</a></li>
  <li><a href="http://littlesis.org/">Littlesis</a></li>
  <li><a href="https://www.northdata.com/">North Data</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
