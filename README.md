@@ -33,6 +33,7 @@
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://www.financialresearch.gov/data/legal-entity-identifier/">Office of Financial Research</a></li>
  <li><a href="https://opencorporates.com/">Open Corporates</a></li>
+ <li><a href="https://openleis.com/">Open LEI Database</a></li>
  <li><a href="https://register.openownership.org/search?q=">Open Ownership</a></li>
  <li><a href="https://www.opensanctions.org/">Open Sanctions</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
