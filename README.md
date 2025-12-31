@@ -19,6 +19,7 @@
  <li><a href="https://companyresearcher.exa.ai/">Company Researcher</a></li>
  <li><a href="https://www.corporationwiki.com/">Corporation Wiki</a></li>
  <li><a href="https://data.gov.uk/">Data Gov</a></li>
+ <li><a href="https://one-plus.github.io/DocumentSearch">Document Search</a></li>
  <li><a href="https://core.cro.ie/">Eire (Republic of Ireland) Companyy Search</a></li>
  <li><a href="https://suite.endole.co.uk/insight/">Endole</a></li>
  <li><a href="https://www.experte.com/email-finder">Experte Email Finder</a></li>
