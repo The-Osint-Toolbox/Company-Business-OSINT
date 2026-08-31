@@ -15,6 +15,7 @@
  <li><a href="https://ceoemail.com/">CEOmail</a></li>
  <li><a href="https://companycheck.co.uk/">Company Check</a></li>
  <li><a href="https://companydirectorcheck.com/search?find=">Company Director Check</a></li>
+ <li><a href="https://records.knowyourcustomer.com/">Company Records (149 jurisdictions - free search, live registry documents)</a></li>
  <li><a href="https://companiesintheuk.co.uk/">Companies House</a></li>
  <li><a href="https://companyresearcher.exa.ai/">Company Researcher</a></li>
  <li><a href="https://www.corporationwiki.com/">Corporation Wiki</a></li>
