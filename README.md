@@ -16,6 +16,7 @@
  <li><a href="https://currawongweb.com/verify/china-usci-checker/">China USCI Checker</a> - Free browser-based format and check-digit validation for 18-character Unified Social Credit Codes; does not verify registration or company status.</li>
  <li><a href="https://companycheck.co.uk/">Company Check</a></li>
  <li><a href="https://companydirectorcheck.com/search?find=">Company Director Check</a></li>
+ <li><a href="https://records.knowyourcustomer.com/">Company Records (149 jurisdictions - free search, live registry documents)</a></li>
  <li><a href="https://companiesintheuk.co.uk/">Companies House</a></li>
  <li><a href="https://companyresearcher.exa.ai/">Company Researcher</a></li>
  <li><a href="https://www.corporationwiki.com/">Corporation Wiki</a></li>
