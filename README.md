@@ -12,6 +12,7 @@
  <li><a href="https://www.fma.gv.at/en/search-company-database/">Austrian Company Database</a></li>
  <li><a href="https://en.baumgartner-research.com/unternehmensregister">Baumgartner-Research</a></li>
  <Li><a href="https://www.disputesregister.org/advice/company-registries-by-country">Business Dispute Register</a></Li>
+ <li><a href="https://horizons.c4ads.org/about">C4ADS Horizons</a></li>
  <li><a href="https://ceoemail.com/">CEOmail</a></li>
  <li><a href="https://currawongweb.com/verify/china-usci-checker/">China USCI Checker</a></li>
  <li><a href="https://companycheck.co.uk/">Company Check</a></li>
@@ -36,7 +37,6 @@
  <li><a href="http://littlesis.org/">Littlesis</a></li>
  <li><a href="https://www.northdata.com/">North Data</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
- <li><a href="https://horizons.c4ads.org/about">C4ADS Horizons</a></li>
  <li><a href="https://www.financialresearch.gov/data/legal-entity-identifier/">Office of Financial Research</a></li>
  <li><a href="https://opencorporates.com/">Open Corporates</a></li>
  <li><a href="https://openleis.com/">Open LEI Database</a></li>
