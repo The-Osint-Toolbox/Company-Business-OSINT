@@ -11,6 +11,7 @@
  <li><a href="https://192.com/businesses/">192.com</a></li>
  <li><a href="https://www.fma.gv.at/en/search-company-database/">Austrian Company Database</a></li>
  <li><a href="https://en.baumgartner-research.com/unternehmensregister">Baumgartner-Research</a></li>
+ <li><a href="https://breach.house/">Breach House</a></li>
  <Li><a href="https://www.disputesregister.org/advice/company-registries-by-country">Business Dispute Register</a></Li>
  <li><a href="https://horizons.c4ads.org/about">C4ADS Horizons</a></li>
  <li><a href="https://ceoemail.com/">CEOmail</a></li>
@@ -32,6 +33,7 @@
  <li><a href="https://uk.globaldatabase.com/company?name=">Global Company Database</a></li>
  <li><a href="https://panjiva.com/search">Global Trade Data Search</a></li>
  <li><a href="https://portal.guernseyregistry.com/">Guernsey Registry</a></li>
+ <li><a href="https://haveibeenransom.com/">Have I Been Ransomed?</a></li>
  <li><a href="https://insiderexpress.ca">Insider Express (Canada)</a></li>
  <li><a href="https://lei.info/">Legal Entity Identifier</a></li>
  <li><a href="http://littlesis.org/">Littlesis</a></li>
