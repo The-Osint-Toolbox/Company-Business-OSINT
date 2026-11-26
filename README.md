@@ -33,6 +33,7 @@
  <li><a href="https://panjiva.com/search">Global Trade Data Search</a></li>
  <li><a href="https://portal.guernseyregistry.com/">Guernsey Registry</a></li>
  <li><a href="https://insiderexpress.ca">Insider Express (Canada)</a></li>
+ <li><a href="https://kausate.com/">Kausate (official company registers, global coverage)</a></li>
  <li><a href="https://lei.info/">Legal Entity Identifier</a></li>
  <li><a href="http://littlesis.org/">Littlesis</a></li>
  <li><a href="https://www.northdata.com/">North Data</a></li>
